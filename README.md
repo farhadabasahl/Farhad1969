@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at MDOT SHA
+- 🔭 I’m working at MDOT SHA
 - 🌱 Studying Data Science at UMD - College Park
 - 📫 How to reach me: farhad@umd.edu
 <!--
