@@ -1,3 +1,8 @@
 # Add these lines to your .gitignore file
 docker/Docker.dmg
 setting/kafka-setup/kafka_2.13-3.7.0.tgz
+.DS_Store
+docker/Docker.dmg
+setting/kafka-setup/kafka_2.13-3.7.0.tgz
+
+setting/.DS_Store
