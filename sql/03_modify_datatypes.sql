@@ -1,0 +1,2 @@
+ALTER TABLE crypto_prices
+ALTER COLUMN volume TYPE NUMERIC(15, 2);
