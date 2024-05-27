@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working to complete an educaional task considered for this repository.
--  
+- 💬 The speed for the progress may be different but it will contnue. 
 <!--
 **Farhad1969/Farhad1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
