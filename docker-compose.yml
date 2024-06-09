@@ -1,0 +1,10 @@
+#version: '3'
+services:
+  server:
+    build: ./server
+    ports:
+      - "12345:12345/udp"
+  client:
+    build: ./client
+    depends_on:
+      - server
